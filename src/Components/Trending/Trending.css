@@ -1,0 +1,12 @@
+.mainTrend{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.trendingHeading{
+    text-align: left;
+    margin-left: 6%;
+}
+.trendContainer{
+    margin-top: 35px;
+}

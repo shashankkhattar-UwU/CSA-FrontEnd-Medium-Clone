@@ -1,0 +1,46 @@
+.articleBox{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 600px;
+    border-bottom: 1px solid;
+    border-color: blanchedalmond;
+}
+.feedImage{
+    margin-left: 50px;
+}
+.articleInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    text-align: left;
+}
+.articleInfo:hover{
+    cursor: pointer;
+}
+.articleInfo:hover{
+    cursor: pointer;
+}
+.articleAuthor{
+    font-size: 13px;
+    padding-bottom: 11px;
+}
+.articleTitle{
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 11px;
+}
+.articleDate{
+    padding-top: 17px;
+    font-size: 12px;
+    color:rgba(0, 5, 5, 0.616);
+}
+.parent{
+    display: flex;
+}
+.articleDesc{
+    color: rgba(0, 0, 0, 0.555);
+}
+.social{
+    float: right;
+}

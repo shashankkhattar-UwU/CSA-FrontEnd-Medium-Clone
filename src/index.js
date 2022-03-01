@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+document.title='Medium Clone'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

@@ -1,0 +1,14 @@
+.feedContainer{
+    /* overflow: hidden; */
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.sticky{
+    float: right;
+    position: sticky;
+    top: 100px;
+    height: 100%;
+}
+

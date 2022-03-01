@@ -1,0 +1,39 @@
+.tagsParent{
+    text-align: left;
+}
+.tagsHeading{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.083em;
+    padding-bottom: 20px;
+}
+.allTags{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 300px;
+}
+.oneTag{
+    color: rgba(0, 0, 0, 0.550);
+    font-size: small;
+    padding: 10px;
+    
+    margin: 5px;
+}
+.tagOnly{
+    border: 0.1px solid;
+    border-color: rgba(179, 179, 179, 0.459);
+    border-radius: 5px;
+}
+.oneTag:hover{
+    cursor: pointer;
+}
+.footer{
+    width: 400px;
+    border-top: 0.1px solid;
+    border-color: rgba(179, 179, 179, 0.459);
+    display: flex;
+    flex-wrap: wrap;
+}

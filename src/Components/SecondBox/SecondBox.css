@@ -1,0 +1,33 @@
+.secondBox{
+    display: flex;
+    text-align: left;
+    padding: 20px;
+    background-image: url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
+    background-repeat: no-repeat;
+    background-size: 349px 353px;
+    background-position: bottom 1px right 200px;
+}
+.boxHeading{
+    font-size: 65px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+.leftBox{
+    width: 30%; 
+    margin-left: 20%;
+}
+.lowerText{
+    padding: 0;
+    margin: 0;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.startWButton{
+    margin-top: 30px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+}
